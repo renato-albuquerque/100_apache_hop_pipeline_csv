@@ -38,7 +38,7 @@ Tratamento das colunas des_nome e des_sobrenome. Realizar o concat para formar o
 ![screenshot](/images/concat.png) <br>
 ![screenshot](/images/concat_table.png) <br>
 
-## 7. Step string operation
+## 7. Novo Step string operation
 Tratamento das colunas do tipo string: UPPER. <br>
 ![screenshot](/images/string_upper.png) <br>
 ![screenshot](/images/string_upper_table.png) <br>
@@ -47,4 +47,16 @@ Tratamento das colunas do tipo string: UPPER. <br>
 Tratamento das colunas com valores nulos: des_pais_origem e mod_carro. <br>
 ![screenshot](/images/if_null.png) <br>
 ![screenshot](/images/if_null_table.png) <br>
+
+## 9. Step if null
+Tratamento das colunas com valores nulos: des_pais_origem e mod_carro. <br>
+![screenshot](/images/if_null.png) <br>
+![screenshot](/images/if_null_table.png) <br>
+
+## 10. Step value mapper
+A partir da coluna des_pais_origem, criar coluna des_continente. Ex.: Para país BRAZIL, continente será AMERICA DO SUL.<br>
+![screenshot](/images/value_mapper.png) <br>
+![screenshot](/images/value_mapper_table.png) <br>
+
+
 
