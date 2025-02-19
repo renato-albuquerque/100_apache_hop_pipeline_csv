@@ -63,3 +63,7 @@ A partir da coluna ano_carro, definir o status do carro entre: VELHO, CONSERVADO
 ![screenshot](/images/number_range.png) <br>
 ![screenshot](/images/number_range_table.png) <br>
 
+## 12. Step select values
+Etapa para ordenar colunas e excluir colunas não necessárias para o output.<br>
+![screenshot](/images/select_values.png) <br>
+![screenshot](/images/select_values_table.png) <br>
