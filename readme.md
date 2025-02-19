@@ -12,3 +12,8 @@ Instrutora: [Nayara Wakweski](https://github.com/NayaraWakewski) <br>
 File: cliente_veiculo.csv <br>
 ![screenshot](/images/csv_input_file.png) <br>
 ![screenshot](/images/csv_table.png) <br>
+
+## 2. Step split fields
+Tratamento da coluna dat_hora_cadastro. Separar hora e texto. <br>
+![screenshot](/images/split_field_1.png) <br>
+![screenshot](/images/split_field_1_table.png) <br>
