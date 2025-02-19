@@ -23,7 +23,12 @@ Tratamento da coluna des_per_tratado. Retirar texto AM. <br>
 ![screenshot](/images/replace.png) <br>
 ![screenshot](/images/replace_table.png) <br>
 
-## 3. Novo Step replace in string
-Tratamento da coluna des_per_tratado. Retirar texto PM. <br>
+## 4. Novo Step replace in string
+Tratamento da coluna des_per_tratado_am. Retirar texto PM. <br>
 ![screenshot](/images/replace_2.png) <br>
 ![screenshot](/images/replace_table_2.png) <br>
+
+## 5. Step string operation
+Tratamento da coluna des_per_tratado. Retirar os números. <br>
+![screenshot](/images/string_operation.png) <br>
+![screenshot](/images/string_operation_table.png) <br>
