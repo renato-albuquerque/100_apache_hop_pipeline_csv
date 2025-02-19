@@ -17,3 +17,8 @@ File: cliente_veiculo.csv <br>
 Tratamento da coluna dat_hora_cadastro. Separar hora e texto. <br>
 ![screenshot](/images/split_field_1.png) <br>
 ![screenshot](/images/split_field_1_table.png) <br>
+
+## 3. Novo Step split fields
+Tratamento da coluna des_per_tratado. Retirar texto AM. <br>
+![screenshot](/images/replace.png) <br>
+![screenshot](/images/replace_table.png) <br>
