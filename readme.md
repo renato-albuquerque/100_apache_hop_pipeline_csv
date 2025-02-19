@@ -58,5 +58,8 @@ A partir da coluna des_pais_origem, criar coluna des_continente. Ex.: Para país
 ![screenshot](/images/value_mapper.png) <br>
 ![screenshot](/images/value_mapper_table.png) <br>
 
-
+## 11. Step number range
+A partir da coluna ano_carro, definir o status do carro entre: VELHO, CONSERVADO, NOVO.<br>
+![screenshot](/images/number_range.png) <br>
+![screenshot](/images/number_range_table.png) <br>
 
