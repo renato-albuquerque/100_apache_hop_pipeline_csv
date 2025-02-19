@@ -43,12 +43,8 @@ Tratamento das colunas do tipo string: UPPER. <br>
 ![screenshot](/images/string_upper.png) <br>
 ![screenshot](/images/string_upper_table.png) <br>
 
-
-
-
-
-## x. Step if null
+## 8. Step if null
 Tratamento das colunas com valores nulos: des_pais_origem e mod_carro. <br>
-![screenshot](/images/) <br>
-![screenshot](/images/) <br>
+![screenshot](/images/if_null.png) <br>
+![screenshot](/images/if_null_table.png) <br>
 
