@@ -38,7 +38,10 @@ Tratamento das colunas des_nome e des_sobrenome. Realizar o concat para formar o
 ![screenshot](/images/concat.png) <br>
 ![screenshot](/images/concat_table.png) <br>
 
-
+## 7. Step string operation
+Tratamento das colunas do tipo string: UPPER. <br>
+![screenshot](/images/string_upper.png) <br>
+![screenshot](/images/string_upper_table.png) <br>
 
 
 
@@ -48,5 +51,4 @@ Tratamento das colunas des_nome e des_sobrenome. Realizar o concat para formar o
 Tratamento das colunas com valores nulos: des_pais_origem e mod_carro. <br>
 ![screenshot](/images/) <br>
 ![screenshot](/images/) <br>
-*/
 
