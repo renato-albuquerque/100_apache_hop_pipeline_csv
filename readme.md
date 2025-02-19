@@ -32,3 +32,21 @@ Tratamento da coluna des_per_tratado_am. Retirar texto PM. <br>
 Tratamento da coluna des_per_tratado. Retirar os números. <br>
 ![screenshot](/images/string_operation.png) <br>
 ![screenshot](/images/string_operation_table.png) <br>
+
+## 6. Step concat fields
+Tratamento das colunas des_nome e des_sobrenome. Realizar o concat para formar o nome completo.<br>
+![screenshot](/images/concat.png) <br>
+![screenshot](/images/concat_table.png) <br>
+
+
+
+
+
+
+
+## x. Step if null
+Tratamento das colunas com valores nulos: des_pais_origem e mod_carro. <br>
+![screenshot](/images/) <br>
+![screenshot](/images/) <br>
+*/
+
