@@ -6,6 +6,9 @@ Instituição: [Digital College Brasil](https://digitalcollege.com.br/) (Fortale
 Curso: Data Analytics (Turma 18) <br>
 Instrutora: [Nayara Wakweski](https://github.com/NayaraWakewski) <br>
 
+## Pipeline Final
+![screenshot](/images/pipeline.png) <br>
+
 ## Etapas de Desenvolvimento
 
 ## 1. Step csv file input
