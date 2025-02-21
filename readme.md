@@ -54,27 +54,22 @@ Tratamento das colunas com valores nulos: des_pais_origem e mod_carro. <br>
 ![screenshot](/images/if_null.png) <br>
 ![screenshot](/images/if_null_table.png) <br>
 
-## 9. Step if null
-Tratamento das colunas com valores nulos: des_pais_origem e mod_carro. <br>
-![screenshot](/images/if_null.png) <br>
-![screenshot](/images/if_null_table.png) <br>
-
-## 10. Step value mapper
+## 9. Step value mapper
 A partir da coluna des_pais_origem, criar coluna des_continente. Ex.: Para país BRAZIL, continente será AMERICA DO SUL.<br>
 ![screenshot](/images/value_mapper.png) <br>
 ![screenshot](/images/value_mapper_table.png) <br>
 
-## 11. Step number range
+## 10. Step number range
 A partir da coluna ano_carro, definir o status do carro entre: VELHO, CONSERVADO, NOVO.<br>
 ![screenshot](/images/number_range.png) <br>
 ![screenshot](/images/number_range_table.png) <br>
 
-## 12. Step select values
+## 11. Step select values
 Etapa para ordenar colunas e excluir colunas não necessárias para o output.<br>
 ![screenshot](/images/select_values.png) <br>
 ![screenshot](/images/select_values_table.png) <br>
 
-## 13. Step Microsoft Excel writer
+## 12. Step Microsoft Excel writer
 Output final para entre ao usuário. Arquivo excel tratado disponível em diretório.<br>
 ![screenshot](/images/address_output_file.png) <br>
 ![screenshot](/images/excel_output.png) <br>
