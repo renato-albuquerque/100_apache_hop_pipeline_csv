@@ -1,6 +1,6 @@
 # Projeto 100 | Unidade 02 | ETL | APACHE HOP | Data Analytics | Digital College Brasil
 
-Desenvolvimento de projeto para transformar dados de um arquivo .csv num Pipeline no APACHE HOP.<br>
+Desenvolvimento de projeto para transformar dados de um arquivo .csv através da ferramenta APACHE HOP (Pipeline). Output: Arquivo tratado disponível em diretório do usuário.<br>
 
 Instituição: [Digital College Brasil](https://digitalcollege.com.br/) (Fortaleza/CE) <br>
 Curso: Data Analytics (Turma 18) <br>
