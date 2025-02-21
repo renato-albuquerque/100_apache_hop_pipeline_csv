@@ -9,6 +9,9 @@ Instrutora: [Nayara Wakweski](https://github.com/NayaraWakewski) <br>
 ## Pipeline Final
 ![screenshot](/images/pipeline.png) <br>
 
+## Output (Arquivo excel para o Usuário)
+![screenshot](/images/excel_output.png) <br>
+
 ## Etapas de Desenvolvimento
 
 ## 1. Step csv file input
@@ -70,3 +73,4 @@ A partir da coluna ano_carro, definir o status do carro entre: VELHO, CONSERVADO
 Etapa para ordenar colunas e excluir colunas não necessárias para o output.<br>
 ![screenshot](/images/select_values.png) <br>
 ![screenshot](/images/select_values_table.png) <br>
+
